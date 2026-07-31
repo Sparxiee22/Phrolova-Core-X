@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<permissions>
-    <privapp-permissions package="com.kurumidev.transsionaddons">
-        <permission name="android.permission.WRITE_SECURE_SETTINGS" />
-        <permission name="android.permission.DUMP" />
-        <permission name="android.permission.PACKAGE_USAGE_STATS" />
-    </privapp-permissions>
-</permissions>
