@@ -6,7 +6,7 @@ Created by **Sparxiee22**.
 
 ## Requirements
 
-- Rooted device (Magisk recommended)
+- Rooted device
 - Android 10+ (API 29)
 
 ## Features
